@@ -2,8 +2,9 @@
 
 🎓 CS & Engineering student @ UPB  
 💻 Currently focused on C  
-🐍 Small Python projects on the side  
 🌐 Interested in networking  
+🐍 Small Python projects on the side  
+
 
 I like finding better approaches and adapting quickly  
 Fun fact: I drink iced coffee no matter the season   
