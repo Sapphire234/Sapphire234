@@ -6,6 +6,19 @@
 🌐 Interested in networking  
 
 
+<table>
+  <tr>
+    <td>
+      I like finding better approaches and adapting quickly.<br>
+      Fun fact: I drink iced coffee no matter the season.
+    </td>
+    <td align="right">
+      <img width="80" src="https://github.com/user-attachments/assets/6d6f0baa-9458-4a68-9e96-b05a72e85560" />
+    </td>
+  </tr>
+</table>
+
+
 I like finding better approaches and adapting quickly  
 Fun fact: I drink iced coffee no matter the season        <img width="80" height="80" alt="Frozen HiChocolate Yo2" src="https://github.com/user-attachments/assets/6d6f0baa-9458-4a68-9e96-b05a72e85560" />  
 
