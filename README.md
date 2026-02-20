@@ -1,4 +1,4 @@
-## Hello 👋
+## Hello, I'm Tina 👋
 
 🎓 CS & Engineering student @ UPB  
 💻 Currently focused on C  
